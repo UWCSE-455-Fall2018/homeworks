@@ -1,0 +1,4 @@
+/Users/volodymyrloyko/svet-solutions/cse455-hw/0/build/CMakeFiles/rebuild_cache.dir
+/Users/volodymyrloyko/svet-solutions/cse455-hw/0/build/CMakeFiles/edit_cache.dir
+/Users/volodymyrloyko/svet-solutions/cse455-hw/0/build/CMakeFiles/test.dir
+/Users/volodymyrloyko/svet-solutions/cse455-hw/0/build/CMakeFiles/uwimg.dir

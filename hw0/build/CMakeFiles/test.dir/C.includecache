@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/volodymyrloyko/svet-solutions/cse455-hw/0/src/args.h
+
+/Users/volodymyrloyko/svet-solutions/cse455-hw/0/src/image.h
+
+/Users/volodymyrloyko/svet-solutions/cse455-hw/0/src/test.c
+math.h
+-
+string.h
+-
+image.h
+/Users/volodymyrloyko/svet-solutions/cse455-hw/0/src/image.h
+test.h
+/Users/volodymyrloyko/svet-solutions/cse455-hw/0/src/test.h
+args.h
+/Users/volodymyrloyko/svet-solutions/cse455-hw/0/src/args.h
+
+/Users/volodymyrloyko/svet-solutions/cse455-hw/0/src/test.h
+stdio.h
+-
+
